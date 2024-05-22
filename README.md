@@ -1,2 +1,11 @@
-# Aikeru-hub
-Aikeru-hub is like Vape V4 in Minecraft Copycats Best Script of all time
+# Aikeru-hub (Maded With Lua)
+```lua
+Empty Coming Soon
+```
+#### • Key System/Script
+Script is Free
+Only Have 2 checkpoints
+
+
+
+
